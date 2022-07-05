@@ -86,7 +86,72 @@ span{
     top: 100px;
     left: 200px;
 }
+.section-bottom {
+    width: 1600px;
+    height: 913px;
+    /* border: 1px solid black; */
+    margin: auto;
+}
 
+.section-bottom-ul {
+    display: flex;
+    list-style: none;
+}
+
+.list-1 {
+    font-size: 20px;
+    margin: 0px 0px 50px 375px;
+}
+
+.list-2 {
+    font-size: 20px;
+    margin-left: 39px;
+    margin-bottom: 50px;
+    opacity: 0.6;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.uchinchi {
+    display: flex;
+}
+
+.h1-3 {
+    font-size: 35px;
+    margin: 137px 667px 64px 681px;
+}
+
+.img-big2 {
+    width: 580px;
+    height: 415px;
+    margin: 0px 85px 0px 150px;
+}
+
+
+.brown2 {
+    margin-top: 60px;
+    font-size: 25px;
+}
+
+.davomi {
+    width: 454px;
+    height: 67px;
+}
+
+.dolor {
+    font-size: 25px;
+}
+
+.uchunchi-tugma {
+    width: 165px;
+    height: 50px;
+    margin-top: 15px;
+    background-color: #D23166;
+    color: #fff;
+    font-size: 15px;
+}
 
 .form{
     width: 100%;
